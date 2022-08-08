@@ -1,4 +1,4 @@
-# ShiNa - Shining Name #
+# Shining Name #
 
 Create a name tag illuminated by LEDs. The cad construction is printed in 3d by using transparent material like PLA and an LED stripe is fixed in a slot at the back inside of the characters for illumination in different colors and modes.
 
