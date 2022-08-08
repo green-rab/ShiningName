@@ -4,7 +4,7 @@ Create a name tag illuminated by LEDs. The cad construction is printed in 3d by 
 
 ![Final name tag 'Green-Rab'](pictures/tbd.png)
 
-Software for cad construction: OpenSCAD 2015.03:
+Software for cad construction: OpenSCAD 2015.03
 - [https://openscad.org](https://openscad.org)
 - [https://github.com/openscad/openscad](https://github.com/openscad/openscad)
 
@@ -101,7 +101,7 @@ Last step is the notch for the connectors between the characters where the LED s
 _d2_width          =   2.0; //mm
 ```
 
-### Rendering with DEBUG parameters ###
+### Preview with DEBUG parameters ###
 
 The result for using the DEBUG resolution parameters is shown below. All connectors have to be checked that they are at the right place. Mostly it takes a while to adjust them all.
 
@@ -115,7 +115,7 @@ As a hint I always load the file with debug parameters. After the automatic prev
 
 The result is shown below. Characters are rendered and the result is more detailed than the version with the DEBUG resolution parameter set above.
 
-![Rendering with final parameters](pictures/name_green-rab_render.png)
+![Rendering with debug parameters](pictures/name_green-rab_render.png)
 
 On the back there is the slot for the LED stripes and the notch in the extra lines between the single characters. The top inside is pointed for better printing results (no support construction needed).
 
