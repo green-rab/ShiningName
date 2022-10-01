@@ -25,14 +25,14 @@ Version history:
 <table>
 	<tr>
 		<th align="center">Version</th>
-		<th>New features</th>
-		<th>Resolved bugs</th>
+		<th align="left">New features</th>
+		<th align="left">Resolved bugs</th>
 	</tr>
 	<tr></tr>
 	<tr>
 		<td align="center">v0.1</td>
-		<td>first version for initial test</td>
-		<td>-</td>
+		<td align="left">first version for initial test</td>
+		<td align="left">-</td>
 	</tr>
 </table>
 
@@ -45,8 +45,8 @@ Result of the rendered script for each version.
 <summary>v0.1</summary>
 <table>
 	<tr>
-		<th>Rendered front view</th>
-		<th>... and back view of the name tag</th>
+		<th align="left">Rendered front view</th>
+		<th align="left">... and back view of the name tag</th>
 	</tr>
 	<tr></tr>
 	<tr>
@@ -150,4 +150,4 @@ All connectors have to be checked that they are at the right place. Mostly it ta
 
 As a hint I always load the file with debug parameters for performance reasons. After the automatic preview is finished I change the resolution parameters by commenting and uncommenting the code blocks and then execute the rendering directly with the RENDERING parameters.
 
-Finished! The rendered cad construction can now be exported as an STL file for a 3D print to realize an own name tag.
+**Finished!** The rendered cad construction can now be exported as an STL file for a 3D print. 
