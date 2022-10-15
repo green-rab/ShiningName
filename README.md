@@ -4,6 +4,8 @@
 
 Create a name tag illuminated by LEDs. The cad construction is printed in 3D by the use of transparent material e.g. PLA. An LED stripe is fixed inside the slot at the back of the characters. Here a LED stripe is used for illumination in different colors and modes.
 
+![](pictures/shiningName_green-rab_cover_v0-1.png)
+
 https://user-images.githubusercontent.com/81587537/195992513-063a43d0-b022-4d0c-b6d0-a63324b67925.mp4
 
 Software for cad construction: OpenSCAD 2015.03
